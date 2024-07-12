@@ -12,8 +12,8 @@
     <!-- config for our rust wasm binary. go to https://trunkrs.dev/assets/#rust for more customization -->
     
 <script type="module" nonce="hjo1yBShytg8wzvCmlXh8w==">
-import init, * as bindings from '/Wordle/gh-pages/wordle-f570a58d85ad7b70.js';
-const wasm = await init('/Wordle/gh-pages/wordle-f570a58d85ad7b70_bg.wasm');
+import init, * as bindings from '/wordle-f570a58d85ad7b70.js';
+const wasm = await init('/wordle-f570a58d85ad7b70_bg.wasm');
 
 
 window.wasmBindings = bindings;
@@ -23,9 +23,9 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
 
 </script>
     <!-- this is the base url relative to which other urls will be constructed. trunk will insert this from the public-url option -->
+    <base href="/wordle/">
 
-
-    <link rel="icon" href="/Wordle/gh-pages/favicon-f402c8741ce815ec.ico" integrity="sha384&#x2D;jNOAE6jgE03LznIulCTVP6BH4NrTuROFjP9wj8bV1UUMJKtZAvstFpIAP3PDcFpx"/>
+    <link rel="icon" href="/favicon-f402c8741ce815ec.ico" integrity="sha384&#x2D;jNOAE6jgE03LznIulCTVP6BH4NrTuROFjP9wj8bV1UUMJKtZAvstFpIAP3PDcFpx"/>
 
 
     
@@ -36,8 +36,8 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
     
 
 
-    <link rel="manifest" href="/Wordle/gh-pages/manifest.json">
-    <link rel="apple-touch-icon" href="/Wordle/gh-pages/icon_ios_touch_192.png">
+    <link rel="manifest" href="assets/manifest.json">
+    <link rel="apple-touch-icon" href="assets/icon_ios_touch_192.png">
     <meta name="theme-color" media="(prefers-color-scheme: light)" content="white">
     <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#404040">
 
@@ -128,8 +128,8 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
         }
     </style>
 
-<link rel="modulepreload" href="/Wordle/gh-pages/wordle-f570a58d85ad7b70.js" crossorigin=anonymous integrity="sha384-AxEeX0B2+W323KWK/0bBmThGZDBuTF0gLR5lDOiQvyQzL/uqhZIAm20L8cuaQGPI">
-<link rel="preload" href="/Wordle/gh-pages/wordle-f570a58d85ad7b70_bg.wasm" crossorigin=anonymous integrity="sha384-4ORFzthp/dESfi7/yIFukCltBsMVW0A7S6C8P5pzQzN5yRiWdYhBVE7XtK1pYzjH" as="fetch" type="application/wasm"></head>
+<link rel="modulepreload" href="/wordle-f570a58d85ad7b70.js" crossorigin=anonymous integrity="sha384-AxEeX0B2+W323KWK/0bBmThGZDBuTF0gLR5lDOiQvyQzL/uqhZIAm20L8cuaQGPI">
+<link rel="preload" href="/wordle-f570a58d85ad7b70_bg.wasm" crossorigin=anonymous integrity="sha384-4ORFzthp/dESfi7/yIFukCltBsMVW0A7S6C8P5pzQzN5yRiWdYhBVE7XtK1pYzjH" as="fetch" type="application/wasm"></head>
 
 <body>
     <!-- The WASM code will resize the canvas dynamically -->
@@ -148,17 +148,7 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
     <!-- Force refresh (Ctrl + F5) to load the latest files instead of cached files  -->
     <script>
         // We disable caching during development so that we always view the latest version.
-        if ('serviceWorker' in navigator) {
-    window.addEventListener('load', function () {
-        navigator.serviceWorker.register('/sw.js').then(function(registration) {
-            // Registration was successful
-            console.log('ServiceWorker registration successful with scope: ', registration.scope);
-        }, function(err) {
-            // registration failed :(
-            console.log('ServiceWorker registration failed: ', err);
-        });
-    });
-}
+       
     </script>
 </body>
 
