@@ -1,0 +1,5 @@
+cargo:rustc-cfg=free_unix
+cargo:rustc-cfg=x11_platform
+cargo:rustc-cfg=wayland_platform
+cargo:rustc-cfg=egl_backend
+cargo:rustc-cfg=glx_backend

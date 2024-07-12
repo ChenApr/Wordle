@@ -1,0 +1,10 @@
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/liblog-58288741cf41be4a.rmeta: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs
+
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/liblog-58288741cf41be4a.rlib: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs
+
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/log-58288741cf41be4a.d: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs
+
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs:
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs:
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs:
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs:

@@ -1,0 +1,10 @@
+{
+    "import": [
+        "wordle/wordle/constant",
+        "wordle/io",
+        "wordle/io/env",
+        "wordle/io/fs",
+        "wordle/io/rand",
+        "wordle/io/sys"
+    ]
+}

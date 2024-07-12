@@ -1,0 +1,7 @@
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/libscoped_tls-74be2404a9de4ed2.rmeta: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/scoped-tls-1.0.1/src/lib.rs
+
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/libscoped_tls-74be2404a9de4ed2.rlib: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/scoped-tls-1.0.1/src/lib.rs
+
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/scoped_tls-74be2404a9de4ed2.d: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/scoped-tls-1.0.1/src/lib.rs
+
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/scoped-tls-1.0.1/src/lib.rs:

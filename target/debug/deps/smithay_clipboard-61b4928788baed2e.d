@@ -1,0 +1,8 @@
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/libsmithay_clipboard-61b4928788baed2e.rmeta: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/mime.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/state.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/worker.rs
+
+/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/smithay_clipboard-61b4928788baed2e.d: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/mime.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/state.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/worker.rs
+
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/lib.rs:
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/mime.rs:
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/state.rs:
+/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/smithay-clipboard-0.7.1/src/worker.rs:

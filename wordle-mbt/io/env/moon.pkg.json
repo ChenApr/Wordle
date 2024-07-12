@@ -1,0 +1,5 @@
+{
+    "import": [
+        "wordle/io/internal/ffi"
+    ]
+}
