@@ -1,6 +1,0 @@
-hello
-world
-cargo
-build
-error
-fault
