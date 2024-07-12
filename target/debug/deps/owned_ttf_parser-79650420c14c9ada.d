@@ -1,8 +1,0 @@
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/libowned_ttf_parser-79650420c14c9ada.rmeta: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/convert.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/owned.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/preparse.rs
-
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/owned_ttf_parser-79650420c14c9ada.d: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/convert.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/owned.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/preparse.rs
-
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/lib.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/convert.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/owned.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/owned_ttf_parser-0.24.0/src/preparse.rs:

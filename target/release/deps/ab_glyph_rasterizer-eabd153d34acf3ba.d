@@ -1,9 +1,0 @@
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/release/deps/libab_glyph_rasterizer-eabd153d34acf3ba.rmeta: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/geometry.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/raster.rs
-
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/release/deps/libab_glyph_rasterizer-eabd153d34acf3ba.rlib: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/geometry.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/raster.rs
-
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/release/deps/ab_glyph_rasterizer-eabd153d34acf3ba.d: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/geometry.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/raster.rs
-
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/lib.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/geometry.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/ab_glyph_rasterizer-0.1.8/src/raster.rs:

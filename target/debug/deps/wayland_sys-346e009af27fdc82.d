@@ -1,9 +1,0 @@
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/libwayland_sys-346e009af27fdc82.rmeta: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/common.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/client.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/server.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/egl.rs
-
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/wayland_sys-346e009af27fdc82.d: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/common.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/client.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/server.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/egl.rs
-
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/lib.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/common.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/client.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/server.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/wayland-sys-0.31.3/src/egl.rs:

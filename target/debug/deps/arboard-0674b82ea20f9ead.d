@@ -1,9 +1,0 @@
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/libarboard-0674b82ea20f9ead.rmeta: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/common.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/mod.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/linux/mod.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/linux/x11.rs
-
-/home/chenapril/TsingHua/summer-rust/GUI/Wordle/target/debug/deps/arboard-0674b82ea20f9ead.d: /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/lib.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/common.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/mod.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/linux/mod.rs /home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/linux/x11.rs
-
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/lib.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/common.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/mod.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/linux/mod.rs:
-/home/chenapril/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/arboard-3.4.0/src/platform/linux/x11.rs:
