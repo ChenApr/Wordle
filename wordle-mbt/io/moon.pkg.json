@@ -1,7 +1,0 @@
-{
-    "import":[
-        "wordle/io/env",
-        "wordle/io/fs",
-        "wordle/io/rand"
-    ]
-}
