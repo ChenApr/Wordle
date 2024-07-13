@@ -11,9 +11,9 @@
 
     <!-- config for our rust wasm binary. go to https://trunkrs.dev/assets/#rust for more customization -->
     
-<script type="module" nonce="o/Ppa6TEyBQALOQXM0v8Gg==">
-import init, * as bindings from '/Wordle/wordle-a22308fdb543e32c.js';
-const wasm = await init('/Wordle/wordle-a22308fdb543e32c_bg.wasm');
+<script type="module" nonce="F17LC6mXboVWMGQoA+JJpg==">
+import init, * as bindings from '/Wordle/wordle-e43c974ead451a86.js';
+const wasm = await init('/Wordle/wordle-e43c974ead451a86_bg.wasm');
 
 
 window.wasmBindings = bindings;
@@ -128,8 +128,8 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
         }
     </style>
 
-<link rel="modulepreload" href="/wordle-a22308fdb543e32c.js" crossorigin=anonymous integrity="sha384-aIiENFFqqsz6WlyJHBZlW4qc+0QvPRM7K7Z6F86OVc3xKiMArAaQP+Jug4F6zaxm">
-<link rel="preload" href="/wordle-a22308fdb543e32c_bg.wasm" crossorigin=anonymous integrity="sha384-nODAjr/SXXkYgpuk7zAVd5vmnU7lD3pGhoIPFEip5uxHOBt9ai+SSNPKQYROcvOA" as="fetch" type="application/wasm"></head>
+<link rel="modulepreload" href="/wordle-e43c974ead451a86.js" crossorigin=anonymous integrity="sha384-VFi6lZJ475NZW9I3wqzwspZiL9zf4EbCxB/e6kXWYhwvnlvPpDmz8MfSUU01c72N">
+<link rel="preload" href="/wordle-e43c974ead451a86_bg.wasm" crossorigin=anonymous integrity="sha384-YUgKJHKr6rVqYo1bCwOv8VohATe6xE3qeTd6+zRXrAcS7hI/bW7rTPcD1hxRkmAq" as="fetch" type="application/wasm"></head>
 
 <body>
     <!-- The WASM code will resize the canvas dynamically -->
@@ -148,7 +148,6 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
     <!-- Force refresh (Ctrl + F5) to load the latest files instead of cached files  -->
     <script>
         // We disable caching during development so that we always view the latest version.
-
+    
     </script>
 <script>"use strict";
-
