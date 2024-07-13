@@ -11,9 +11,9 @@
 
     <!-- config for our rust wasm binary. go to https://trunkrs.dev/assets/#rust for more customization -->
     
-<script type="module" nonce="hjo1yBShytg8wzvCmlXh8w==">
-import init, * as bindings from '/Wordle/wordle-f570a58d85ad7b70.js';
-const wasm = await init('/Wordle/wordle-f570a58d85ad7b70_bg.wasm');
+<script type="module" nonce="o/Ppa6TEyBQALOQXM0v8Gg==">
+import init, * as bindings from '/Wordle/wordle-a22308fdb543e32c.js';
+const wasm = await init('/Wordle/wordle-a22308fdb543e32c_bg.wasm');
 
 
 window.wasmBindings = bindings;
@@ -23,7 +23,7 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
 
 </script>
     <!-- this is the base url relative to which other urls will be constructed. trunk will insert this from the public-url option -->
-    <base href="/Wordle/">
+    <base href="/Wordle/" />
 
     <link rel="icon" href="/favicon-f402c8741ce815ec.ico" integrity="sha384&#x2D;jNOAE6jgE03LznIulCTVP6BH4NrTuROFjP9wj8bV1UUMJKtZAvstFpIAP3PDcFpx"/>
 
@@ -128,8 +128,8 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
         }
     </style>
 
-<link rel="modulepreload" href="/wordle-f570a58d85ad7b70.js" crossorigin=anonymous integrity="sha384-AxEeX0B2+W323KWK/0bBmThGZDBuTF0gLR5lDOiQvyQzL/uqhZIAm20L8cuaQGPI">
-<link rel="preload" href="/wordle-f570a58d85ad7b70_bg.wasm" crossorigin=anonymous integrity="sha384-4ORFzthp/dESfi7/yIFukCltBsMVW0A7S6C8P5pzQzN5yRiWdYhBVE7XtK1pYzjH" as="fetch" type="application/wasm"></head>
+<link rel="modulepreload" href="/wordle-a22308fdb543e32c.js" crossorigin=anonymous integrity="sha384-aIiENFFqqsz6WlyJHBZlW4qc+0QvPRM7K7Z6F86OVc3xKiMArAaQP+Jug4F6zaxm">
+<link rel="preload" href="/wordle-a22308fdb543e32c_bg.wasm" crossorigin=anonymous integrity="sha384-nODAjr/SXXkYgpuk7zAVd5vmnU7lD3pGhoIPFEip5uxHOBt9ai+SSNPKQYROcvOA" as="fetch" type="application/wasm"></head>
 
 <body>
     <!-- The WASM code will resize the canvas dynamically -->
@@ -148,10 +148,7 @@ dispatchEvent(new CustomEvent("TrunkApplicationStarted", {detail: {wasm}}));
     <!-- Force refresh (Ctrl + F5) to load the latest files instead of cached files  -->
     <script>
         // We disable caching during development so that we always view the latest version.
-       
+
     </script>
-</body>
+<script>"use strict";
 
-</html>
-
-<!-- Powered by egui: https://github.com/emilk/egui/ -->
